@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here are some details about me:
 
 - 🔭 I’m currently working on different Python Projects
-- 🌱 I’m currently learning JavaScript
-- 🤔 I’m looking for help with Machine Learning and Data Visualisation 
+- 🌱 I’m currently learning JavaScript, Machine Learning & Data Visualisation
 - ⚡ Fun fact: I get most of my inspiration while playing Games or listening to Music
 
